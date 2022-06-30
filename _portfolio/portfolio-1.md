@@ -4,7 +4,7 @@ title: "Applied Statistics: Causal Inference in Economic Analysis and Machine Le
 collection: portfolio
 ---
 
-In this section you will find a repository of the Applied Statistics course I took as an undergraduate at PUCP. We develop a series of proyects and replications of papers in R, Julia and Phyton usingg Machine Learingn in Causal Inference. Click [here](https://github.com/AC3510/MC_CI) to be redirected to my GitHub repository.
+In this section you will find a repository of the Applied Statistics course I took as an undergraduate at PUCP. We develop a series of proyects and replications of papers in R, Julia and Phyton using Machine Learnign in Causal Inference. Click [here](https://github.com/AC3510/MC_CI) to be redirected to my GitHub repository.
 
 ### Here you can find a resume of the methods and models available:
 
