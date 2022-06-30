@@ -1,6 +1,6 @@
 ---
 title: "Applied Statistics: Causal Inference in Economic Analysis and Machine Learning Methods"
-#excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "Phyton, Julia and R"
 collection: portfolio
 ---
 
