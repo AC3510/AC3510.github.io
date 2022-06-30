@@ -9,8 +9,8 @@ main:
  # - title: "Teaching"
  #   url: /teaching/    
     
- # - title: "Portfolio"
- #   url: /portfolio/
+  - title: "Codes"
+    url: /portfolio/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/CV.pdf
     
-  - title: "Codes"
-    url: /markdown/
+  #- title: "Codes"
+  #  url: /markdown/
