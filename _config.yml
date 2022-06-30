@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ana Angulo"
-  avatar           : "headshot.jpeg"
+  avatar           : "headshot.jpg"
   bio              : "Economics student at the Faculty of Social Sciences of the Pontifical Catholic University of Peru"
   location         : "Lima, Perú"
   employer         :
@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
